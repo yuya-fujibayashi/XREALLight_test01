@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRSDK", "NRSDK.csproj", "{C16A5990-E6F2-DD3E-8514-48C8066E159E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BCE7EAC8-AADA-374F-C8AD-711E077DA086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRSDKEditor", "NRSDKEditor.csproj", "{5D06E786-A2A0-D383-1D70-C390DDEF53AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16A5990-E6F2-DD3E-8514-48C8066E159E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16A5990-E6F2-DD3E-8514-48C8066E159E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16A5990-E6F2-DD3E-8514-48C8066E159E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16A5990-E6F2-DD3E-8514-48C8066E159E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE7EAC8-AADA-374F-C8AD-711E077DA086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE7EAC8-AADA-374F-C8AD-711E077DA086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE7EAC8-AADA-374F-C8AD-711E077DA086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE7EAC8-AADA-374F-C8AD-711E077DA086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D06E786-A2A0-D383-1D70-C390DDEF53AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D06E786-A2A0-D383-1D70-C390DDEF53AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D06E786-A2A0-D383-1D70-C390DDEF53AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D06E786-A2A0-D383-1D70-C390DDEF53AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
